@@ -47,6 +47,8 @@ int main() {
    stack.push(8);
    stack.push(4);
    stack.push(3);
+   stack.push(10);
+   cout << stack.pop() << endl;
    cout << stack.pop() << endl;
    cout << stack.pop() << endl;
    cout << stack.pop() << endl;
